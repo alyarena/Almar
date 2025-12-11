@@ -1,2 +1,2 @@
-# Almar
-Spam komen
+# AI in Social Networks
+Spam Comment Detection
